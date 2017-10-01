@@ -1,0 +1,20 @@
+# SBI Web Page Configuration
+#
+# Archivo de configuracion de la aplicacion. Version 1.0
+# 
+# Parametros de ejecucion
+# Solucion Bueneas Ideas
+# 2014
+#
+# Ing. Edwin Agudelo
+#
+
+ENABLE 1
+DBSYS POSTGRESQL
+DBUSER edwin
+DBPASS edwin1983
+DBHOST localhost
+DBPORT 5432
+DBNAME desarrollos
+#DBCONN nulo
+
