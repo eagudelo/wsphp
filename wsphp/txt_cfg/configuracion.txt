@@ -15,6 +15,6 @@ DBUSER edwin
 DBPASS edwin1983
 DBHOST localhost
 DBPORT 5432
-DBNAME desarrollos
+#DBNAME wsphp
 #DBCONN nulo
 
